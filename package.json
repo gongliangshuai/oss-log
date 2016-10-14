@@ -1,0 +1,22 @@
+{
+  "name": "oss-log",
+  "version": "1.0.0",
+  "description": "oss-log: oss AppendObject",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aliyun",
+    "oss",
+    "log",
+    "node",
+    "client"
+  ],
+  "author": "gls",
+  "license": "ISC",
+  "dependencies": {
+    "ali-oss": "^4.5.0",
+    "urlencode": "^1.1.0"
+  }
+}
